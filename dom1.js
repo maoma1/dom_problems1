@@ -1,2 +1,4 @@
-document.getElementById("paragraph1");
-element.style.backgroundcolor="red";
+function changeColor() {
+    document.getElementById("paragraph1").innerHTML;
+ 
+}   
